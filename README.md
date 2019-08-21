@@ -6,3 +6,4 @@ HeyFoodApp project documentation:
 - UML Diagrams 
 - Service Oriented Architecture Document (SOA)
 - User Interface Document
+- Use Case Report Slope One
